@@ -22,7 +22,7 @@ The application scrapes shortcut keys from websites, stores them in a SQLite dat
 
 * Python 3.11+
 * SQLite3
-* Requests
+* Selenium
 * BeautifulSoup4
 * Plyer
 * Windows Task Scheduler
