@@ -8,7 +8,7 @@ cursor = conn.cursor()
 
 
 cursor.execute("""
-            SELECT category,title FROM TASKS LIMIT 10;
+            SELECT category,title,show_count FROM TASKS LIMIT 10;
 """
 )
 
